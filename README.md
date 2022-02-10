@@ -1,2 +1,2 @@
-# odin-recipes
+# index.html
 Trying my best here
