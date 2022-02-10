@@ -6,8 +6,8 @@
     </head>
 
     <body>
-        <h1><em>Good Old Faschioned Pancakes</em></h1>
-            <img src="../Pancakes.jpg">
+        <h1><em>Good Old Fashioned Pancakes</em></h1>
+            <img src="../Pancakes.jpg" width="350px" height="500px">
             <p><strong><h1>This is a great recipe that I found in my Grandma's recipe book. Judging from the weathered look of this recipe card, this was a family favorite.</h1> </strong></p>
             <p><em>Ingredients</em></p>
             <ul>
