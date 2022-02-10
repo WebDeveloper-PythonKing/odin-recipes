@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html> <lang="en">
+    <head>
+        <title>Recipes and some more Recipes2</title>
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <h1><em>Good Old Faschioned Pancakes</em></h1>
+            <img src="../Pancakes.jpg">
+            <p><strong><h1>This is a great recipe that I found in my Grandma's recipe book. Judging from the weathered look of this recipe card, this was a family favorite.</h1> </strong></p>
+            <p><em>Ingredients</em></p>
+            <ul>
+                <li>1 ½ cups all-purpose flour </li>
+                <li>3 ½ teaspoons baking powder</li>
+                <li>¼ teaspoon salt, or more to taste</li>
+                <li>1 tablespoon white sugar</li>
+                <li>1 ¼ cups milk </li>
+                <li>1 egg </li>
+                <li>3 tablespoons butter, melted </li>
+            </ul>
+            <p>Directions</p>
+            <ol>
+                <li>In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.</li>
+                <li>Heat a lightly oiled griddle or frying pan over <a href="https://www.youtube.com/watch?v=34Ig3X59_qA">medium-high heat.</a>Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.</li>
+            </ol>
+            <p><h2>Fun Facts with Blues blue</h2> </p>
+
+            <p>Nutrition Facts
+                Per Serving:
+                158 calories; protein 4.5g; carbohydrates 21.7g; fat 5.9g; cholesterol 37.7mg; sodium 503.6mg. Full Nutrition
+            </p>
+            <p> <a href="https://www.amazon.de/Mautner-Markhof-SKIWASSER-Sirup-Liter/dp/B00E5AP2B8/ref=asc_df_B00E5AP2B8/?tag=googshopde-21&linkCode=df0&hvadid=309242411688&hvpos=&hvnetw=g&hvrand=2140352580012162379&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068503&hvtargid=pla-700434706746&psc=1&th=1&psc=1&tag=&ref=&adgrpid=63059673098&hvpone=&hvptwo=&hvadid=309242411688&hvpos=&hvnetw=g&hvrand=2140352580012162379&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068503&hvtargid=pla-700434706746">Syrup not Included</a>
+    </body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Recipes and CO KG</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Homepage</h1>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">click me</a>
+
+        <a href="about.html">About</a>
+
+        <img src="../odin-links-and-images/images/dog.jpg">
+    
+    </body>
+</html>
